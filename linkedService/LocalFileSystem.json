@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "D :\\",
+			"host": "D:\\AzureDataEngineeringA_05\\Source Sample Files\\Discount.csv",
 			"userId": "DESKTOP-M93DP3G",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIyMDJkZTM5Yi1kMWE0LTRiOTQtOTNkNC05MmMzNDI0NTNiYzMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI5ZjdmNjk1ZS1hMDhjLTRiNzUtODM0Zi1hNDE1N2I2MzlhNjUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "Selfhosted-IR",
