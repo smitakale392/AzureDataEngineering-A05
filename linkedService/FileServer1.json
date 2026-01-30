@@ -1,0 +1,17 @@
+{
+	"name": "FileServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\",
+			"userId": "DESKTOP-M93DP3G\\ira",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0YjdkYjc4OS0wOWJjLTQ0YTYtODRjNy0yOTRjYTBkMWNkNDQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "SelfHosted-IR",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
