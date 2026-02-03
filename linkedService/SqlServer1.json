@@ -6,12 +6,12 @@
 		"type": "SqlServer",
 		"typeProperties": {
 			"server": "DESKTOP-M93DP3G",
-			"database": "AdventureWorks2022",
+			"database": "Nov_2024",
 			"encrypt": "optional",
 			"trustServerCertificate": true,
 			"authenticationType": "Windows",
 			"userName": "DESKTOP-M93DP3G\\IRA",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIxZWJlZDYzMS1iNDdlLTQ5MGUtYjk3NC0yZTk1OWQ4Y2VhMzUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI3MDQwZDZlZS04NDZiLTRlMmItYWQyMC04ZmNjYjU0ZmRmNmMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "SelfHosted-IR",
